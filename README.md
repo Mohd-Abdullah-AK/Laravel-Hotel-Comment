@@ -2,7 +2,7 @@
 This Project is made by using Laravel 5.3 framework. In this User can view numbers of Hotels List and Give comments.
 
 # Author | Mohd Abdullah
-> Mail me : mohdabdullah85@gmail.com
+> Mail me : mohdabdullah85@gmail.com <br>
 > This is a Test Project containing migration and db:seeds for fake values also on for user table
 > For Admin Access your mail : admin@test.com & Password : 123456
 
