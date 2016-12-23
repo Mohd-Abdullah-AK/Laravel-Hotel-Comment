@@ -21,14 +21,14 @@ This Project is made by using Laravel 5.3 framework. In this User can view numbe
 
 # Tables Structre
 
-# User Table Structure
+1. User Table Structure
 ____________________________________________________________________________________
 |	id	|	name 	|	email 	|	password 	|	remember_token 		|	created_at 	|	updated_at	|
 
-# hotels_info Table Structure
+2. hotels_info Table Structure
 _____________________________________________________________________________________________________________________________________
 |	id	|	hotel_name 	|	hotel_contact 	|	hotel_mail 	|	hotel_address 		|	hotel_image 	|	hotel_enable	|	created_at	|	updated_at	|
 
-# hotels_comments Table Structure
+3. hotels_comments Table Structure
 _______________________________________________________________________
 |	id	|	hotel_id 	|	comment 	|	user_id 	|	created_at 		|	updated_at|
